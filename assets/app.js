@@ -910,7 +910,7 @@ async function handleContactSubmit(event) {
 function initPromoBadgeNY() {
     const el = document.getElementById('promoBadgeNY');
     if (!el) return;
-    const deadline = new Date(2025, 11, 31, 23, 59, 59); // 31 Dec 2025
+    const deadline = new Date(2026, 1, 18, 23, 59, 59); // 18 Feb 2026
     if (new Date() > deadline) el.style.display = 'none';
 }
 
