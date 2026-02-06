@@ -501,7 +501,7 @@ async function sendToGoogleSheet(mainType, types, resultText) {
 }
 
 // Константа для Telegram
-const TELEGRAM_URL = 'https://t.me/stalkermedia1';
+const TELEGRAM_URL = 'https://t.me/stalkermedia113';
 
 /*
 // Управление полем Telegram в форме
